@@ -1,0 +1,5 @@
+c:\users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\chattingServer1\bin\Debug\chattingServer1.exe.config
+c:\users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\chattingServer1\bin\Debug\chattingServer1.exe
+c:\users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\chattingServer1\bin\Debug\chattingServer1.pdb
+c:\users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\chattingServer1\obj\Debug\chattingServer1.exe
+c:\users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\chattingServer1\obj\Debug\chattingServer1.pdb

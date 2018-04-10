@@ -1,0 +1,8 @@
+C:\Users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\UDPServer\bin\Debug\UDPServer.exe.config
+C:\Users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\UDPServer\bin\Debug\UDPServer.exe
+C:\Users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\UDPServer\bin\Debug\UDPServer.pdb
+C:\Users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\UDPServer\obj\Debug\UDPServer.exe
+C:\Users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\UDPServer\obj\Debug\UDPServer.pdb
+C:\Users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\UDPServer\obj\Debug\UDPServer.csprojResolveAssemblyReference.cache
+C:\Users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\UDPServer\bin\Debug\Commons.dll
+C:\Users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\UDPServer\bin\Debug\Commons.pdb
