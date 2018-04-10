@@ -13,7 +13,7 @@ namespace UDPClient
     public class Client
     {
         public static UdpClient c = new UdpClient();
-        public IPEndPoint ep = new IPEndPoint(IPAddress.Parse("10.104.12.203"), 11000);
+        public IPEndPoint ep = new IPEndPoint(IPAddress.Parse("10.104.34.205"), 11000);
         public static List<Packet> packetList;
         static int count = 0;
         public static bool flag = false;
@@ -49,9 +49,18 @@ namespace UDPClient
         {
             while (true)
             {
+                try
+                {
+                    byte[] dataReveived = c.Receive(ref ep);
+                    RaiseDataReceived(new ReceivedDataArgs(ep.Address, ep.Port, dataReveived));
+                }
+                catch(Exception ex)
+                {
+                    Console.WriteLine("connection lost trying to reconnect ");
+                }
                 //mutex.WaitOne();
-                byte[] dataReveived = c.Receive(ref ep);
-                RaiseDataReceived(new ReceivedDataArgs(ep.Address, ep.Port, dataReveived));
+                
+               
 
                 //resend paket if any 
                 resendPacket();

@@ -1,5 +1,4 @@
 C:\Users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\Commons\bin\Debug\Commons.dll
 C:\Users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\Commons\bin\Debug\Commons.pdb
-C:\Users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\Commons\obj\Debug\Commons.csprojResolveAssemblyReference.cache
 C:\Users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\Commons\obj\Debug\Commons.dll
 C:\Users\abdul.muqeet\documents\visual studio 2015\Projects\chattingServer1\Commons\obj\Debug\Commons.pdb

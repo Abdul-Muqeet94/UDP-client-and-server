@@ -35,7 +35,11 @@ namespace UDPServer
             
             Thread dataHandlerThread = new Thread(() => hdc.SubscribeToEvent(server));
             dataHandlerThread.Start();
-           
+
+            //Server 2
+
+            
+
             //Do other things
             //while (true)
             //{
